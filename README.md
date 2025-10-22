@@ -35,20 +35,3 @@ Since GANs are used for unsupervised learning, the dataset does not include labe
 
 ---
 
-## 📦 Deliverables
-Submit a **ZIP file** containing:
-1. The **working project** (source code, dependencies, Makefiles if needed).  
-2. A **report** including:  
-   - Instructions on how to run your project  
-   - Explanation of each component (Generator, Discriminator, latent tensor, etc.)  
-   - Generated fake output images  
-
-Before submission, test your model on the provided dataset.
-
----
-
-## ⚠️ Notes
-- You may discuss general concepts with classmates, but all implementation and reports must be your own work.  
-- Late submissions incur a **10-point deduction per day**.
-
----
